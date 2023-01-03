@@ -195,5 +195,10 @@ footer a {
     .contact-list a {
         padding: 5px;
     }
+    
+     .ProjectOne-TicTacToe img {
+        width: 100%;
+        height: auto;
+    }
 
 }
