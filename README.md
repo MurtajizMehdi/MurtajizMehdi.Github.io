@@ -8,6 +8,5 @@ My personal webpage.
 <h2>Things still being worked on...</h2>
 <ul>
   <li>Background pictures not loading</li>
-  <li>Pictures in mobile version are out of frame</li>
   <li>Adding more detail and info to webpage</li>
 </ul>
