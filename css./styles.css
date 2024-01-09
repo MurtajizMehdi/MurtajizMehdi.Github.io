@@ -76,7 +76,7 @@ header {
     background-color: #2F3061;
     color: #F7FFF7;
     background-size: contain;
-    
+    text-shadow: 5px 5px black;
 }
 
 #HeaderBio {
