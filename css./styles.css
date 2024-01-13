@@ -89,7 +89,7 @@ header {
     background-color: #F7FFF7;
 }
 
-.ProjectOne-TicTacToe a, .ProjectTwo-KingsLanding a {
+.ProjectOne-TicTacToe a, .ProjectTwo-KingsLanding a, .Project3 a {
     color: #F7FFF7;
     background-color: #2F3061;
     text-decoration: none;
@@ -98,7 +98,7 @@ header {
     display: inline-block;
 }
 
-.ProjectOne-TicTacToe img {
+.ProjectOne-TicTacToe img, .Project3 img {
     width: 600px;
 }
 
