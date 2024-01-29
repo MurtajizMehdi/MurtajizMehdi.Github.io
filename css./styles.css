@@ -90,6 +90,32 @@ header {
     padding: 25px 0;
 }
 
+.projects {
+    background-color: #fff;
+  background-image: linear-gradient(
+      45deg,
+      #99ffcc 25%,
+      transparent 25%,
+      transparent 75%,
+      #99ffcc 75%,
+      #99ffcc
+    ),
+    linear-gradient(
+      -45deg,
+      #99ffcc 25%,
+      transparent 25%,
+      transparent 75%,
+      #99ffcc 75%,
+      #99ffcc
+    );
+    background-size: 60px 60px;
+  background-repeat: repeat;
+}
+
+.projects h2, .projects h3, .projects p {
+    font-weight: bold;
+}
+
 /* Work Experience
 ---------------------------------- */
 .work-experience {
