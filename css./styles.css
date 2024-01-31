@@ -94,19 +94,19 @@ header {
     background-color: #fff;
   background-image: linear-gradient(
       45deg,
-      #99ffcc 25%,
+      rgb(230,231,237) 25%,
       transparent 25%,
       transparent 75%,
-      #99ffcc 75%,
-      #99ffcc
+      rgb(230,231,237) 75%,
+      rgb(230,231,237)
     ),
     linear-gradient(
       -45deg,
-      #99ffcc 25%,
+      rgb(230,231,237) 25%,
       transparent 25%,
       transparent 75%,
-      #99ffcc 75%,
-      #99ffcc
+      rgb(230,231,237) 75%,
+      rgb(230,231,237)
     );
     background-size: 60px 60px;
   background-repeat: repeat;
@@ -142,16 +142,23 @@ header {
 .education {
     background-image: url(../images/FIU-MMC.jpeg);
     background-size: cover;
-    background-position: top right;
+    background-position: right center;
+    /* background-position: top right; */
     padding-bottom: 120px;
     color: white;
-    /* padding-top: 50px; */
+    padding-top: 50px;
 }
 
 .education p {
     width: 60%;
 }
 
+/* To add "window" effect on education section */
+/* .educationdiv {
+    background-color: rgba(211,211,211, 0.3);
+} */
+
+/* width: fit-content; */
 
 
 /* Contact Info
