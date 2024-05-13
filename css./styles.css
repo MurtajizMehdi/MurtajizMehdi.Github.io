@@ -71,7 +71,7 @@ header {
     background-color: #F7FFF7;
 }
 
-.ProjectOne-TicTacToe a, .ProjectTwo-KingsLanding a, .Project3 a, 
+.Project1 a, .ProjectTwo-KingsLanding a, .Project3 a, 
 .Project4 a {
     color: #F7FFF7;
     background-color: #2F3061;
@@ -81,11 +81,11 @@ header {
     display: inline-block;
 }
 
-.ProjectOne-TicTacToe img, .Project3 img, .Project4 img {
+.Project1 img, .Project3 img, .Project4 img {
     width: 600px;
 }
 
-.ProjectOne-TicTacToe, .ProjectTwo-KingsLanding, .Project3 {
+.Project1, .ProjectTwo-KingsLanding, .Project3 {
     border-bottom: 1px dashed #343434;
     padding: 25px 0;
 }
@@ -129,7 +129,7 @@ header {
     column-gap: 20px;
 }
 
- .job-one {
+ .job-one, .job-two {
     border-bottom: 1px dashed #343434;
 }
 
@@ -219,7 +219,7 @@ footer a {
         padding: 5px;
     }
     
-     .ProjectOne-TicTacToe img, .Project3 img, .Project4 img {
+     .Project1 img, .Project3 img, .Project4 img {
         width: 100%;
         height: auto;
     }
