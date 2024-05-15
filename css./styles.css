@@ -72,7 +72,7 @@ header {
 }
 
 .Project1 a, .Project2 a, .Project3 a, 
-.Project4 a {
+.Project4 a , .Project5 a{
     color: #F7FFF7;
     background-color: #2F3061;
     text-decoration: none;
@@ -85,7 +85,7 @@ header {
     width: 600px;
 }
 
-.Project1, .ProjectTwo-KingsLanding, .Project3 {
+.Project1, .Project2, .Project3 {
     border-bottom: 1px dashed #343434;
     padding: 25px 0;
 }
