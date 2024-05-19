@@ -81,11 +81,12 @@ header {
     display: inline-block;
 }
 
-.Project1 img, .Project3 img, .Project4 img {
+.Project1 img, .Project2 img, .Project3 img, .Project4 img {
     width: 600px;
+    /* width: 70%; */
 }
 
-.Project1, .Project2, .Project3 {
+.Project1, .Project2, .Project3, .Project4 {
     border-bottom: 1px dashed #343434;
     padding: 25px 0;
 }
@@ -219,7 +220,7 @@ footer a {
         padding: 5px;
     }
     
-     .Project1 img, .Project3 img, .Project4 img {
+     .Project1 img, .Project2 img, .Project3 img, .Project4 img {
         width: 100%;
         height: auto;
     }
